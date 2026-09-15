@@ -1,0 +1,2 @@
+# Put local attendee exports and other private source data in this directory.
+# Its contents stay out of Git; this placeholder keeps the folder structure visible.

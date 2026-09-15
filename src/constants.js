@@ -1,0 +1,4 @@
+export const ROLES = ['Founder / Co-founder','Investor / VC','Student / Aspiring Entrepreneur','Builder / Engineer / Designer','Other'];
+export const GOALS = ['Pitch / Pitch Deck Feedback','Finding Co-founders / Talent','Brainstorming / Early-stage Ideas','Startup Advice / Mentorship','Exploring Startup Opportunities','Just curious about entrepreneurship'];
+export const INDUSTRIES = ['AI / Machine Learning','Software / SaaS','Healthcare / Biotech','Education / EdTech','FinTech','Consumer / Retail','Climate / Sustainability','Deep Tech / Hardware','Real Estate / PropTech','Media / Entertainment','Social Impact'];
+export const shortRole = role => ({'Founder / Co-founder':'Founder / Co-founder','Investor / VC':'Investor / VC','Student / Aspiring Entrepreneur':'Aspiring entrepreneur','Builder / Engineer / Designer':'Builder / Engineer / Designer','Other':'Community member'}[role] || role);

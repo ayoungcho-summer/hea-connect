@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+.env.local
+.env.*.local
+*.csv
+data/private/*
+!data/private/.gitkeep
+data/enrichment-cache.json
+data/*.sqlite*
+test-results/
+.vercel
+.DS_Store
+memory/
