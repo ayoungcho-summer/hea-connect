@@ -7,7 +7,6 @@ The deployed site is available at [hea-connect.vercel.app](https://hea-connect.v
 ## Features
 
 - Responsive attendee directory with search across profile, Ask, Offer, role, industry, and connection-goal fields
-- Korean-to-English search alias for `디자인` → `design`
 - Three curated matches per attendee, generated from survey answers and optional LinkedIn enrichment
 - Grounded, structured OpenAI-written explanations for each recommendation
 - Supabase-backed Open Space board for public topics, interest signals, and comments
