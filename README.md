@@ -1,4 +1,4 @@
-# HEA Connect — Back to School
+# HEA Connect — Back to School Event
 
 HEA Connect is a static networking experience for the Haas Entrepreneurship Association Back to School community. It helps attendees browse the directory, discover curated introductions, and participate in a shared Open Space discussion board.
 
